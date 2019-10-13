@@ -47,7 +47,7 @@
     <id>deployment</id>
     <name>Internal Snapshot Releases</name>
     <url>
-      http://192.168.1.46:8081/repository/bootstrap/
+      http://192.168.1.46:8081/repository/bootstrap-internal/
     </url>
   </snapshotRepository>
 </distributionManagement>
